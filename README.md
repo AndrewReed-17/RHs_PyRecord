@@ -145,5 +145,3 @@ python -m doctest -v RHs_PyRecord.py
 ## Licence MIT
 
 Permission est accordée, sans frais, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés, d'utiliser, copier, modifier, fusionner, publier, distribuer, sous-licencier et/ou vendre des copies du logiciel, sous réserve de conserver l'avis de copyright et l'avis de licence.
-
-Le texte complet de la licence MIT peut être placé dans un fichier séparé `LICENSE`.
